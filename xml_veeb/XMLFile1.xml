@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arvutid>
+	<arvuti>
+		<nimetus>Lauaarvuti</nimetus>
+		<hind>200$</hind>
+		<firma>HP</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Suur monitor</nimetus>
+				<hind>56$</hind>
+			</monitor>
+			<hiir>
+				<nimetus>HP hiir</nimetus>
+				<hind>7$</hind>
+			</hiir>
+		</lisad>
+	</arvuti>
+	<arvuti>
+		<nimetus>Tahvliarvuti</nimetus>
+		<hind>2000$</hind>
+		<firma>HP</firma>
+	</arvuti>
+	<arvuti>
+		<nimetus>Nutiarvuti</nimetus>
+		<hind>300$</hind>
+		<firma>HP</firma>
+	</arvuti>
+</arvutid>
